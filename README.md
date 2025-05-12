@@ -17,6 +17,7 @@ A simple web application for managing personal or business contacts.
 ## 📁 Project Structure
 
 ├── contactapi/ # Spring Boot project
+
 └── frontend/ # React app
 ![image](https://github.com/user-attachments/assets/2ef1f886-b6d5-487c-926f-274bc91e22eb)
 ![image](https://github.com/user-attachments/assets/c14682ff-8aac-494b-a0ce-65ea6fed5629)
